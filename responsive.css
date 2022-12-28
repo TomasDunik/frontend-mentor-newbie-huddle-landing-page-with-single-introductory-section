@@ -91,4 +91,8 @@
   }
 }
 
-/* dat focus */
+@media (max-width: 1439px) {
+  header img {
+    margin-top: 120px;
+  }
+}
